@@ -13,7 +13,7 @@
 - ToNumbers()
 - FillSpotBuyBlanksWithZero()
 - CalculateBalances()
-![Screenshot 2026-07-09 at 10.34.01 PM](https://hackmd.io/_uploads/HkFv-4pmMe.png)
+![Macros Dashboard](macros.png)
 
 ### 1. Understand / Business Goal  : 
 - This project starts from a real supply-chain shortage problem:
@@ -267,9 +267,8 @@ If the report displays a running total of your inventory balance, the relationsh
 
 $$-292 + 192 = -100$$
 
-![Screenshot 2026-07-02 at 7.49.43 PM](https://hackmd.io/_uploads/By4wg0mXGl.png)
-
-![Screenshot 2026-07-02 at 7.49.57 PM](https://hackmd.io/_uploads/B1-ugRm7Ge.png)
+![rollingtotal](rollingtotal.png)
+![shortagereport](shortagereport.png)
 
 
 ### 2. Discrete Net Requirements (Period-Specific)
