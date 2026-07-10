@@ -28,6 +28,9 @@
 
 - Scenario B (Cell vs. Cell): If you are looping through every single cell and comparing it to every other cell (worst-case scenario):
 
+```
+504,882 cells × 504,882 cells = ~254 billion iterations.
+```
 
 ### 1. Understand / Business Goal  : 
 - This project starts from a real supply-chain shortage problem:
