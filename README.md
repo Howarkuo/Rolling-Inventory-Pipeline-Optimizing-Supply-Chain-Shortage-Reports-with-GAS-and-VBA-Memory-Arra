@@ -20,10 +20,10 @@
 
 The company has a shortage report table with  demand, supply, balance, planned purchase, spot-buy, and vendor response information **spread across different tables**. Manual update is slow because each part number may have multiple vendors, multiple purchase dates, and multiple time buckets.
 
-- The business goal is:
+The business goal is:
 
-:::success
-Convert a messy shortage report into a structured, automated planning table that shows demand, supply, balance, spot-buy, and updated shortage status by date bucket.
+> [!TIP]
+> **Convert a messy shortage report into a structured, automated planning table** that shows demand, supply, balance, spot-buy, and updated shortage status by date bucket.
 :::
 
 - Core business logic:
